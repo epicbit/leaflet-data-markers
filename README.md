@@ -2,8 +2,11 @@
 
 Extends [L.divIcon](http://leafletjs.com/reference-1.0.0.html#divicon) and [L.icon](http://leafletjs.com/reference-1.0.0.html#icon)
 
+Tested on Leaflet 1.0.
 
 ### Usage
+
+Include script after leaflet.
 
 
 #### L.dataDivIcon
